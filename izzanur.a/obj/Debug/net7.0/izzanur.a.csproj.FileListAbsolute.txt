@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\pas_ganjil2\izzanur.a\bin\Debug\net7.0\izzanur.a.exe
+C:\Users\User\Desktop\pas_ganjil2\izzanur.a\bin\Debug\net7.0\izzanur.a.deps.json
+C:\Users\User\Desktop\pas_ganjil2\izzanur.a\bin\Debug\net7.0\izzanur.a.runtimeconfig.json
+C:\Users\User\Desktop\pas_ganjil2\izzanur.a\bin\Debug\net7.0\izzanur.a.dll
+C:\Users\User\Desktop\pas_ganjil2\izzanur.a\bin\Debug\net7.0\izzanur.a.pdb
+C:\Users\User\Desktop\pas_ganjil2\izzanur.a\obj\Debug\net7.0\izzanur.a.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\pas_ganjil2\izzanur.a\obj\Debug\net7.0\izzanur.a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\pas_ganjil2\izzanur.a\obj\Debug\net7.0\izzanur.a.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\pas_ganjil2\izzanur.a\obj\Debug\net7.0\izzanur.a.AssemblyInfo.cs
+C:\Users\User\Desktop\pas_ganjil2\izzanur.a\obj\Debug\net7.0\izzanur.a.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pas_ganjil2\izzanur.a\obj\Debug\net7.0\izzanur.a.dll
+C:\Users\User\Desktop\pas_ganjil2\izzanur.a\obj\Debug\net7.0\refint\izzanur.a.dll
+C:\Users\User\Desktop\pas_ganjil2\izzanur.a\obj\Debug\net7.0\izzanur.a.pdb
+C:\Users\User\Desktop\pas_ganjil2\izzanur.a\obj\Debug\net7.0\izzanur.a.genruntimeconfig.cache
+C:\Users\User\Desktop\pas_ganjil2\izzanur.a\obj\Debug\net7.0\ref\izzanur.a.dll
